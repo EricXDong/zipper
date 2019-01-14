@@ -1,0 +1,17 @@
+{
+  "name": "zip",
+  "version": "1.0.0",
+  "description": "",
+  "main": "zip.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "archiver": "^2.1.1",
+    "commander": "^2.19.0",
+    "node-dir": "^0.1.17",
+    "progress": "^2.0.0"
+  }
+}
